@@ -1,0 +1,118 @@
+.heading{
+    color: black;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 900;
+    font-size:50px;
+}
+
+.fname{
+    background-color: #000000;
+    border-radius: 10px;
+    border-style: none;
+    box-sizing: border-box;
+    color:   ghostwhite;
+    cursor:text;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 20px;
+    padding: 10px 18px;
+}
+
+.submit{
+    background-color:rgb(226, 62, 166);
+    border-radius: 10px;
+    border-style:double;
+    box-sizing: border-box;
+    color:   ghostwhite;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 20px;
+    padding: 10px 18px;
+}
+.submit:hover{
+    background-color: rgb(118, 25, 119);
+}
+.fname_ka_dabba{
+    background-color: #fffefe;
+    border-radius: 10px;
+    border-style: double;
+    box-sizing: border-box;
+    color:   rgb(8, 8, 8);
+    cursor:text;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 20px;
+    padding: 10px 22px;
+}
+.lname{
+    background-color: #000000;
+    border-radius: 10px;
+    border-style: none;
+    box-sizing: border-box;
+    color:   ghostwhite;
+    cursor:text;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 20px;
+    padding: 10px 18px;
+}
+.lname_ka_dabba{
+    background-color: #fffefe;
+    border-radius: 10px;
+    border-style: double;
+    box-sizing: border-box;
+    color:   rgb(8, 8, 8);
+    cursor:text;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 20px;
+    padding: 10px 22px;
+} 
+.age{
+    background-color: #000000;
+    border-radius: 10px;
+    border-style: none;
+    box-sizing: border-box;
+    color:   ghostwhite;
+    cursor:text;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 20px;
+    padding: 10px 18px;  
+}
+.age_ka_dabba{
+    background-color: #fffefe;
+    border-radius: 10px;
+    border-style: double;
+    box-sizing: border-box;
+    color:   rgb(8, 8, 8);
+    cursor:text;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 20px;
+    padding: 10px 2px;
+    width: 50px;
+}
